@@ -1,8 +1,8 @@
 {
   "Parameters": {
-    "EnvironmentName": "Production"
+    "EnvironmentName": "production"
   },
   "Tags": {
-    "Stage": "Production"
+    "Stage": "production"
   }
 }
